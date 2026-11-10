@@ -22,7 +22,7 @@ namespace F1Pilotak12A
 
         private static void MennyiadatSor(List<Pilota> pilotak)
         {
-            Console.WriteLine($"A fájlban összesen {pilotak.Count} pilóta adata található");
+            Console.WriteLine($"1. feladat: Pilóták száma\n\tA fájlban összesen {pilotak.Count} pilóta adata található");
         }
 
         private static void Beolvasas(string v)
